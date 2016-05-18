@@ -1,0 +1,5 @@
+* What Git concepts were you struggling with prior to the GPS session? I was primarily struggling with merge, commit, and creating new branches. It didn't add up too much for me. 
+* What concepts were clarified during the GPS? Actually, all of these were clarified for me, except for "fetch"
+* What questions did you ask your pair and the guide? I got stuck at certain parts where I needed to create a new branch, merge, etc. and asked for guidance there. At other places, I felt more comfortable and was able to sort of cruise through. I've seen some instructors do a push - pull request to a merge, so it helped to have that experience. 
+* What still confuses you about Git? Not too much, I just get confused on the command side, specifically with branches. 
+* How was your first experience of pairing in a GPS? It was interesting, but it helped a lot. 
